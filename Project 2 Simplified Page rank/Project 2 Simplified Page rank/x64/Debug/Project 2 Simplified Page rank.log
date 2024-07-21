@@ -1,0 +1,3 @@
+﻿  AdjacencyList.cpp
+C:\Users\Mike\source\repos\Project 2 Simplified Page rank\Project 2 Simplified Page rank\AdjacencyList.cpp(14,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project 2 Simplified Page rank.vcxproj -> C:\Users\Mike\source\repos\Project 2 Simplified Page rank\x64\Debug\Project 2 Simplified Page rank.exe
